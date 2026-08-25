@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <a href="https://opencode.ai/">
     <img
@@ -105,7 +107,7 @@ node agenrouter_server.js
 Expected output:
 
 ```
-AgentRouter proxy running on http://127.0.0.1:4000
+Proxy running on http://127.0.0.1:4000
 ```
 
 ### 5. Configure OpenCode
